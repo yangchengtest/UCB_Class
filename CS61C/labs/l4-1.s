@@ -1,5 +1,4 @@
 .globl map 
-
 .data
 arrays: .word 5, 6, 7, 8, 9
         .word 1, 2, 3, 4, 7
